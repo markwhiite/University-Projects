@@ -1,0 +1,41 @@
+
+
+IT Related
+
+* Computer Science I (CSCE 1030) 		----- Programming (C++)
+* Computer Science II (CSCE 1040) 		----- Programming (C++)
+* Foundations in Computing (CSCE 2100) 		----- Programming (C++)
+* Foundations in Data Structures (CSCE 2110) 	----- Data
+* IT Project Management (CSCE 3055) 		----- Project Management
+* Human Computer Interface (CSCE 3220)		 ----- UI/UX
+* Internet Programming (CSCE 3420) 		----- Programming (HTML)
+* Computer Networks (CSCE 3530) 		----- Networking
+* Foundations in Cybersecurity (CSCE 3550) 	----- Cybersecurity
+* Systems Programming (CSCE 3600)		----- System
+* Systems Administration (CSCE 3605)		----- System
+* Enterprise System Architecture (CSCE 3615) 	----- System
+* Social Issues Computing (CSCE 4010) 		----- Educational
+* Fundamentals of Database Systems (CSCE 3450)	----- Data
+* Database Admin (CSCE 4355)			----- Data
+* Intro to Network Administration (CSCE 4535)	----- Networking
+* Capstone I (CSCE 4905)			----- Client Project, analyzing data
+* Capstone II (CSCE 4925)
+
+
+---
+
+Non-IT Related
+
+* Calculus I (MATH 1710)
+* Elementary Probability and Statistics (MATH 1680)
+* College Writing I (ENGL 1310)
+* Technical Writing (TECM 2700)
+* Biology (BIOL 1710 & Lab 1760)
+* Physics (PHYS 1710 & Lab 1730)
+* General Psychology I (PSYC 1630)
+* Intro to Philosophy (PHIL 1050)
+* Music Appreciation (MUMH 2040)
+* Nutritional Science (HMGT 2460)
+* U.S. History to 1865 (HIST 2610)
+* U.S. History Since 1865 (HIST 2620)
+
