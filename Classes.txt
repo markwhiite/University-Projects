@@ -1,6 +1,6 @@
 
 
-IT Related
+IT Related Courses in my Information Technology Degree plan
 
 * Computer Science I (CSCE 1030) 		----- Programming (C++)
 * Computer Science II (CSCE 1040) 		----- Programming (C++)
@@ -38,4 +38,5 @@ Non-IT Related
 * Nutritional Science (HMGT 2460)
 * U.S. History to 1865 (HIST 2610)
 * U.S. History Since 1865 (HIST 2620)
+
 
