@@ -1,6 +1,6 @@
 
 
-- The Files in this repository contain valuable projects that have contributed to my knowledge, Here is a look at my completed BA **Information Technology Degree Plan:**
+- The Files in this repository contain valuable projects that have contributed to my knowledge, Here is a look at my completed BA **Information Technology Degree Plan** at the University of North Texas.
 
 **Programming with C++**
 * Computer Science I (CSCE 1030) 		          
@@ -44,6 +44,7 @@
 
 
 ---
+
 
 
 
